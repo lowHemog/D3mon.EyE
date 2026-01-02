@@ -9,13 +9,13 @@ O D3mon eye é uma ferramenta de acesso remoto EXTREMAMENTE potente.
 ## Funções:
   - Lock: Trava tela da vitima
   - Unlock: Destrava tela da vitima
-  - Screenshot: envia print da tela da vitima
-  - Webcam: envia foto da webcam para servidor
+  - Screenshot: envia print da tela da vitima pro servidor
+  - Webcam: envia foto da webcam da vitima para servidor
   - kill_windows: Fecha todas as abas da vitima
   - kill_browser: fecha navegadores da vitima
   - upload: envia qualquer arquivo do servidor para vitima
   - execute: executa arquivo por nome na vitima
-  - http(s):// : Abre navegador em qualquer link digitado
+  - http(s):// : Abre navegador da vitima em qualquer link digitado
   - sair: sai do painel
 
 Não me responsabilizo por uso indevido.
